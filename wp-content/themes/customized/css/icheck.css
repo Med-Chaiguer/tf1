@@ -1,0 +1,13 @@
+.icheckbox {
+position: relative;
+width: 27px;
+top: 5px;
+height: 26px;
+margin-right: 16px;
+background: black;
+display: inline-block;
+background:url(../images/check-bg.png) !important;
+}
+.icheckbox.checked {
+	background:url(../images/checked-bg.png) !important;
+}
